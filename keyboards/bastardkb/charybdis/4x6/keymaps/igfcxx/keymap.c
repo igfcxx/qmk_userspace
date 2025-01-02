@@ -30,7 +30,7 @@ enum charybdis_keymap_layers {
 // Mod-Tap Keys
 #define TO_BASE TO(LAYER_QWERTY)
 #define MO_FUN1 MO(LAYER_FUNC1)
-#define MO_FUN2 MO(LAYER_FUNC1)
+#define MO_FUN2 MO(LAYER_FUNC2)
 #define TO_MOUS TO(LAYER_MOUSE)
 #define CT_CAP  CTL_T(KC_CAPS)
 
