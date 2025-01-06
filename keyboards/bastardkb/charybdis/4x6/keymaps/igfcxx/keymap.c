@@ -224,6 +224,8 @@ void matrix_scan_user(void) {
 void rgb_matrix_update_pwm_buffers(void);
 #endif
 
+#define CHARYBDIS_DRAGSCROLL_REVERSE_Y
+
 // Combos
 enum combos {
     RT_LPRN,
